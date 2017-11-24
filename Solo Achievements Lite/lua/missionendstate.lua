@@ -15,11 +15,11 @@ end)
 Hooks:PreHook(MissionEndState, "chk_complete_heist_achievements", "MissionEndState_chk_complete_heist_achievements_SoloAchievementsLite_PreHook", function (self)
 	if self._success and Global.game_settings.single_player then
 		if not managers.statistics:is_dropin() then
-			tweak_data.achievement.complete_heist_achievements.num_players = 1 -- Here Comes the Pain Train
-			tweak_data.achievement.complete_heist_achievements.num_players = 1 -- Cooking With Style
-			tweak_data.achievement.complete_heist_achievements.num_players = 1 -- Boston Saints
-			tweak_data.achievement.complete_heist_achievements.num_players = 1 -- Heisters of the Round Table
-			tweak_data.achievement.complete_heist_achievements.num_players = 1 -- Original Heisters
+			tweak_data.achievement.complete_heist_achievements.pain_train.num_players = 1 -- Here Comes the Pain Train
+			tweak_data.achievement.complete_heist_achievements.anticimex.num_players = 1 -- Cooking With Style
+			tweak_data.achievement.complete_heist_achievements.ovk_8.num_players = 1 -- Boston Saints
+			tweak_data.achievement.complete_heist_achievements.steel_1.num_players = 1 -- Heisters of the Round Table
+			tweak_data.achievement.complete_heist_achievements.green_2.num_players = 1 -- Original Heisters
 		end
 	end
 end)
@@ -27,11 +27,11 @@ end)
 Hooks:PostHook(MissionEndState, "chk_complete_heist_achievements", "MissionEndState_chk_complete_heist_achievements_SoloAchievementsLite_PostHook", function (self)
 	if self._success and Global.game_settings.single_player then
 		if not managers.statistics:is_dropin() then
-			tweak_data.achievement.complete_heist_achievements.num_players = 4
-			tweak_data.achievement.complete_heist_achievements.num_players = 4
-			tweak_data.achievement.complete_heist_achievements.num_players = 2
-			tweak_data.achievement.complete_heist_achievements.num_players = 4
-			tweak_data.achievement.complete_heist_achievements.num_players = 4
+			tweak_data.achievement.complete_heist_achievements.pain_train.num_players = 4
+			tweak_data.achievement.complete_heist_achievements.anticimex.num_players = 4
+			tweak_data.achievement.complete_heist_achievements.ovk_8.num_players = 2
+			tweak_data.achievement.complete_heist_achievements.steel_1.num_players = 4
+			tweak_data.achievement.complete_heist_achievements.green_2.num_players = 4
 		end
 
 		-- Reindeer Games, Ghost Riders, Funding Father, Four Monkeys, Sounds of Animals Fighting, Unusual Suspects, Wind of Change, Riders On the Snowstorm and Honor Among Thieves
