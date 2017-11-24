@@ -30,11 +30,11 @@ Achievements that I did not found a way to mod:
 * Pass the Ammo (spa_6)
 
 Achievements and trophies not affected by this mod:
-* Mercenary trophy - not allowed by the site staff, but available in full version of this mod
-* Scrap Metal trophy - not allowed by the site staff, but available in full version of this mod
-* Long Fellow trophy - not allowed by the site staff, but there exists a mod that allows to increases forklift capacity up to 8 to be able to transport all required bags in one go
-* Megalo-Mania - not allowed by the site staff, but available in full version of this mod
-* OVERDRILL - not allowed by the site staff, but there exists a mod that activates Overdrill mode with a key bind instead of positioning 4 players around the vault
+* Mercenary trophy - not allowed by the modworkshop.net staff, but available in full version of this mod
+* Scrap Metal trophy - not allowed by the modworkshop.net staff, but available in full version of this mod
+* Long Fellow trophy - not allowed by the modworkshop.net staff, but there exists a [mod](https://github.com/Cigaras/Payday-2-Forklift-Capacity) that allows to increases forklift capacity up to 8 to be able to transport all required bags in one go
+* Megalo-Mania - not allowed by the modworkshop.net staff, but available in full version of this mod
+* OVERDRILL - not allowed by the modworkshop.net staff, but there exists a [mod](https://github.com/Cigaras/Payday-2-Forced-Ovedrill) that activates Overdrill mode with a key bind instead of positioning 4 players around the vault
 * Failed Assassination trophy - equip Your bots with sniper rifles
 * Sewer Rats - use [Monkeepers](http://paydaymods.com/mods/581/MKP) mod for bots to carry bags and [Keepers](http://paydaymods.com/mods/102/KPR) mod for Jokers to defend bags
 
