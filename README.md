@@ -30,11 +30,11 @@ Achievements that I did not found a way to mod:
 * Pass the Ammo (spa_6)
 
 Achievements and trophies not affected by this mod:
-* Mercenary trophy - not allowed by the modworkshop.net staff, but available in full version of this mod
-* Scrap Metal trophy - not allowed by the modworkshop.net staff, but available in full version of this mod
-* Long Fellow trophy - not allowed by the modworkshop.net staff, but there exists a [mod](https://github.com/Cigaras/Payday-2-Forklift-Capacity) that allows to increases forklift capacity up to 8 to be able to transport all required bags in one go
-* Megalo-Mania - not allowed by the modworkshop.net staff, but available in full version of this mod
-* OVERDRILL - not allowed by the modworkshop.net staff, but there exists a [mod](https://github.com/Cigaras/Payday-2-Forced-Ovedrill) that activates Overdrill mode with a key bind instead of positioning 4 players around the vault
+* Mercenary trophy - not allowed by the [modworkshop.net] staff, but available in [full version] of this mod
+* Scrap Metal trophy - not allowed by the [modworkshop.net] staff, but available in [full version] of this mod
+* Long Fellow trophy - not allowed by the [modworkshop.net] staff, but there exists a [mod](https://github.com/Cigaras/Payday-2-Forklift-Capacity) that allows to increases forklift capacity up to 8 to be able to transport all required bags in one go
+* Megalo-Mania - not allowed by the [modworkshop.net] staff, but available in [full version] of this mod
+* OVERDRILL - not allowed by the [modworkshop.net] staff, but there exists a [mod](https://github.com/Cigaras/Payday-2-Forced-Ovedrill) that activates Overdrill mode with a key bind instead of positioning 4 players around the vault
 * Failed Assassination trophy - equip Your bots with sniper rifles
 * Sewer Rats - use [Monkeepers](http://paydaymods.com/mods/581/MKP) mod for bots to carry bags and [Keepers](http://paydaymods.com/mods/102/KPR) mod for Jokers to defend bags
 
@@ -42,3 +42,6 @@ Credits:
 * Author: [Valdas V.](https://valdasv.lt)
 * Icon by [Jonathan Rey](http://www.iconarchive.com/artist/jonathan-rey.html), [free for non-commercial use](http://www.iconarchive.com/show/star-wars-characters-icons-by-jonathan-rey/Han-Solo-01-icon.html), character depicted in this icon is © by Lucasfilm Ltd.
 * Special thanks to [TdlQ](http://steamcommunity.com/id/tdlq) for [lua dump](https://bitbucket.org/TdlQ/payday-2-luajit) and code samples
+
+  [modworkshop.net]: https://modworkshop.net/showthread.php?tid=7470
+  [full version]: https://github.com/Cigaras/Payday-2-Solo-Achievements
