@@ -23,10 +23,13 @@ For achievements that required 4 different masks, this number now scales with nu
 * Wind of Change
 * Riders On the Snowstorm
 * Honor Among Thieves
+* Animal Kingdom
+* any future achievement or trophy that will require 4 different masks
 
 Achievements that I did not found a way to mod:
 * Short Fuse (short_fuse)
 * Pass the Ammo (spa_6)
+* Tag, You're It! (fort_3)
 
 Achievements and trophies not affected by this mod:
 * Mercenary trophy - not allowed by the modworkshop.net staff, but available in full version of this mod
