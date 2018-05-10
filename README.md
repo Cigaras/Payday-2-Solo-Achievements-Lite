@@ -31,6 +31,7 @@ Achievements that I did not found a way to mod:
 * Short Fuse (short_fuse)
 * Pass the Ammo (spa_6)
 * [Tag, You're It! (fort_3)](https://github.com/Cigaras/Payday-2-Solo-Achievements/issues/1)
+* Quick Draw (cac_9)
 
 Achievements and trophies not affected by this mod:
 * Mercenary trophy - not allowed by the [modworkshop.net] staff, but available in [full version] of this mod
@@ -40,6 +41,7 @@ Achievements and trophies not affected by this mod:
 * OVERDRILL - not allowed by the [modworkshop.net] staff, but there exists a [mod](https://github.com/Cigaras/Payday-2-Forced-Overdrill) that activates Overdrill mode with a key bind instead of positioning 4 players around the vault
 * Failed Assassination trophy - equip Your bots with sniper rifles
 * Sewer Rats - use [Monkeepers](http://paydaymods.com/mods/581/MKP) mod for bots to carry bags and [Keepers](http://paydaymods.com/mods/102/KPR) mod for Jokers to defend bags
+* C-40 (cac_15) - not allowed by the [modworkshop.net] staff, but available in [full version] of this mod
 
 Credits:
 * Author: [Valdas V.](https://valdasv.lt)
